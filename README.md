@@ -3,7 +3,7 @@ This project implements and compares several approaches for solving the Bin Pack
 The goal is to minimize the number of bins needed to pack all items under a fixed capacity.
 
 - Features
-✔ Genetic Algorithm (GA)
+ Genetic Algorithm (GA)
 Permutation-based encoding
 First-Fit decoder
 Tournament selection
@@ -81,7 +81,7 @@ Benchmarking GA against classical heuristics
 Clear, understandable output suitable for research or teaching
 Clean modular structure for extending crossover/mutation operators
 
-📎 Perfect for:
+- Perfect for:
 
 Optimization course projects
 AI / Evolutionary Computation studies
